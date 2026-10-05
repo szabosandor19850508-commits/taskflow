@@ -1,0 +1,10 @@
+# Local secrets
+.env
+.env.*
+!.env.example
+
+# IDE / OS noise
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
