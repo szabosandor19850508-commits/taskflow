@@ -3,3 +3,6 @@ Taskflow -5 órai feladat
 GitHub együttműködés gyakorlása.
 Issue létrehozása és branch használata.
 Pull request és cod review gyakorlása.
+
+A projekt fejlesztése során a csapattársak együttműködnek.
+Amódosításokat Pull Request segítségével ellenőrizzük.
