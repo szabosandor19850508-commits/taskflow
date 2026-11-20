@@ -1,0 +1,5 @@
+Taskflow -5 órai feladat
+
+GitHub együttműködés gyakorlása.
+Issue létrehozása és branch használata.
+Pull request és cod review gyakorlása.
